@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jovyan
 - 👀 I’m interested in front-end development these days.
-- 🌱 I’m currently learning about NextJs which is the most challenging frameworkd that i've ever touched
+- 🌱 I’m currently learning about NextJs
 - 📫 You could check my instagram @jopiiyan
 
 
